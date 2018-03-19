@@ -1,0 +1,8 @@
+open 192.168.150.126
+DDSCFTP
+Ddsc1234
+prompt off
+lcd C:\Python34
+get FUTURE\COMM02.TXT
+get FUTURE\KCTXP08P.TXT
+quit
